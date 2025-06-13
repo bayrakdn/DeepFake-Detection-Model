@@ -1,0 +1,9 @@
+torch
+torchvision
+pytorchcv
+facenet-pytorch
+efficientnet-pytorch
+opencv-python-headless
+pandas
+numpy
+Pillow
